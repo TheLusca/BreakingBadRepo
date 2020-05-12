@@ -1,4 +1,4 @@
 # Breaking Bad Repo
 
-![./capa.jpeg]
+!(./capa.jpeg)
 
